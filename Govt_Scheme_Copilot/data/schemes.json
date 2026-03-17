@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "name": "PM Kisan Samman Nidhi",
+    "text": "PM Kisan scheme provides ₹6000 per year to small and marginal farmers. Eligibility includes land ownership. Documents required: Aadhaar, land records. Category: Agriculture."
+  },
+  {
+    "id": 2,
+    "name": "Pradhan Mantri Fasal Bima Yojana",
+    "text": "Crop Insurance Scheme provides financial protection to farmers against crop loss due to natural disasters. Eligibility: farmers. Documents: Aadhaar, land details. Category: Agriculture."
+  },
+  {
+    "id": 3,
+    "name": "Ayushman Bharat Yojana",
+    "text": "Provides free health insurance up to ₹5 lakh for low-income families. Eligibility: economically weaker sections. Documents: Aadhaar, ration card. Category: Health."
+  },
+  {
+    "id": 4,
+    "name": "PM Awas Yojana",
+    "text": "Provides affordable housing for urban and rural poor. Eligibility: low-income families without permanent house. Documents: Aadhaar, income proof. Category: Housing."
+  },
+  {
+    "id": 5,
+    "name": "National Scholarship Portal",
+    "text": "Provides scholarships for students from low-income families. Eligibility: students with financial need. Documents: income certificate, academic records. Category: Education."
+  },
+  {
+    "id": 6,
+    "name": "Stand Up India Scheme",
+    "text": "Provides loans to SC/ST and women entrepreneurs for starting businesses. Eligibility: women and SC/ST entrepreneurs. Documents: Aadhaar, business plan. Category: Business."
+  },
+  {
+    "id": 7,
+    "name": "Startup India Scheme",
+    "text": "Supports startups with funding, tax benefits, and mentorship. Eligibility: new entrepreneurs. Documents: business registration. Category: Business."
+  },
+  {
+    "id": 8,
+    "name": "MGNREGA",
+    "text": "Provides 100 days of wage employment to rural households. Eligibility: rural citizens. Documents: job card, Aadhaar. Category: Employment."
+  },
+  {
+    "id": 9,
+    "name": "PM Ujjwala Yojana",
+    "text": "Provides free LPG connections to women from below poverty line families. Eligibility: BPL women. Documents: Aadhaar, ration card. Category: Welfare."
+  },
+  {
+    "id": 10,
+    "name": "Atal Pension Yojana",
+    "text": "Provides pension benefits to workers in unorganized sectors. Eligibility: citizens aged 18-40. Documents: Aadhaar, bank account. Category: Pension."
+  },
+  {
+    "id": 11,
+    "name": "PM Mudra Yojana",
+    "text": "Provides loans up to ₹10 lakh for small businesses. Eligibility: small entrepreneurs. Documents: Aadhaar, business details. Category: Finance."
+  },
+  {
+    "id": 12,
+    "name": "Beti Bachao Beti Padhao",
+    "text": "Promotes education and welfare of girl children. Eligibility: girl children and families. Documents: birth certificate. Category: Social Welfare."
+  },
+  {
+    "id": 13,
+    "name": "PM Kaushal Vikas Yojana",
+    "text": "Provides skill development training for youth. Eligibility: unemployed youth. Documents: Aadhaar. Category: Skill Development."
+  },
+  {
+    "id": 14,
+    "name": "National Social Assistance Programme",
+    "text": "Provides financial assistance to elderly, widows, and disabled persons. Eligibility: vulnerable groups. Documents: Aadhaar, income proof. Category: Welfare."
+  },
+  {
+    "id": 15,
+    "name": "PM Jeevan Jyoti Bima Yojana",
+    "text": "Provides life insurance coverage at low premium. Eligibility: citizens aged 18-50. Documents: Aadhaar, bank account. Category: Insurance."
+  },
+  {
+    "id": 16,
+    "name": "PM Suraksha Bima Yojana",
+    "text": "Provides accident insurance coverage. Eligibility: citizens aged 18-70. Documents: Aadhaar. Category: Insurance."
+  },
+  {
+    "id": 17,
+    "name": "Deen Dayal Upadhyaya Grameen Kaushalya Yojana",
+    "text": "Provides skill training and employment opportunities for rural youth. Eligibility: rural youth. Documents: Aadhaar. Category: Skill Development."
+  },
+  {
+    "id": 18,
+    "name": "Digital India Programme",
+    "text": "Promotes digital literacy and access to online services. Eligibility: all citizens. Documents: Aadhaar. Category: Digital."
+  },
+  {
+    "id": 19,
+    "name": "PM SVANidhi Yojana",
+    "text": "Provides loans to street vendors for business. Eligibility: street vendors. Documents: Aadhaar, vendor ID. Category: Business."
+  },
+  {
+    "id": 20,
+    "name": "National Food Security Act",
+    "text": "Provides subsidized food grains to low-income families. Eligibility: BPL households. Documents: ration card. Category: Food Security."
+  }
+]
