@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+transformers
+torch
+requests
+groq
+python-dotenv
+PyPDF2
+numpy
