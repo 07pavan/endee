@@ -1,15 +1,15 @@
-FROM ubuntu:22.04
+FROM golang:1.22
 
-RUN apt-get update && apt-get install -y \
-    curl \
-    unzip \
-    && rm -rf /var/lib/apt/lists/*
+WORKDIR /app
 
-# Download correct binary (FIXED VERSION)
-RUN curl -L https://github.com/endee-ai/endee/releases/download/v0.1.0/endee-linux-amd64 -o endee
+# Clone Endee repo
+RUN git clone https://github.com/endee-ai/endee.git .
 
-RUN chmod +x endee
+# Build Endee
+RUN go build -o endee
 
+# Expose port
 EXPOSE 8080
 
+# Run
 CMD ["./endee"]
