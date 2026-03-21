@@ -5,15 +5,8 @@ RUN apt-get update && apt-get install -y \
     unzip \
     && rm -rf /var/lib/apt/lists/*
 
-# Detect architecture and download correct binary
-RUN ARCH=$(uname -m) && \
-    if [ "$ARCH" = "x86_64" ]; then \
-        curl -L https://github.com/endee-ai/endee/releases/latest/download/endee-linux-amd64 -o endee; \
-    elif [ "$ARCH" = "aarch64" ]; then \
-        curl -L https://github.com/endee-ai/endee/releases/latest/download/endee-linux-arm64 -o endee; \
-    else \
-        echo "Unsupported architecture: $ARCH" && exit 1; \
-    fi
+# Download correct binary (FIXED VERSION)
+RUN curl -L https://github.com/endee-ai/endee/releases/download/v0.1.0/endee-linux-amd64 -o endee
 
 RUN chmod +x endee
 
